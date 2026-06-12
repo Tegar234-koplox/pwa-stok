@@ -1,0 +1,23 @@
+{
+  "name": "PWA Stok Resto",
+  "short_name": "Stok Resto",
+  "description": "Aplikasi stok resto berbasis Laravel 11 dan MySQL.",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#09111f",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/images/akangseafood.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/akangseafood.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
